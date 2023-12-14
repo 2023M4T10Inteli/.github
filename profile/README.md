@@ -1,4 +1,4 @@
-# 🙋‍ 2023.2 - Módulo 8: IOT - Turma 10 - Atvos
+# 🙋‍ 2023.2 - Módulo de IoT - Turma 10 - Atvos
 
 ## 🔍 O problema:
 
