@@ -18,7 +18,7 @@ Sistema de monitoramento para Gestão da localização dos  Equipamentos e Insum
 - Grupo 2 - Ecotvos
   - Link do repositório: https://github.com/2023M4T10Inteli/grupo2
 
-- Grupo 3 - 
+- Grupo 3 - Ashton
   - Link do repositório: https://github.com/2023M4T10Inteli/grupo3
 
 - Grupo 4 - Etanóis
