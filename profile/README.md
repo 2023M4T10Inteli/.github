@@ -13,19 +13,19 @@ Sistema de monitoramento para Gestão da localização dos  Equipamentos e Insum
 ## 💻 IOT : 
 
 - Grupo 1 - IOTvos
-  - Link do repositório: https://github.com/2023M4T10Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M4T10Inteli-grupo1
     
 - Grupo 2 - Ecotvos
-  - Link do repositório: https://github.com/2023M4T10Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M4T10Inteli-grupo2
 
 - Grupo 3 - Ashton
-  - Link do repositório: https://github.com/2023M4T10Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M4T10Inteli-grupo3
 
 - Grupo 4 - Etanóis
-  - Link do repositório: https://github.com/2023M4T10Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M4T10Inteli-grupo4
 
 - Grupo 5 - BIOT Solutions
-  - Link do repositório: https://github.com/2023M4T10Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M4T10Inteli-grupo5
 
 
 
